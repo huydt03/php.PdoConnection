@@ -1,0 +1,53 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "5c4ef3070d590391d20b616269858de3",
+    "packages": [
+        {
+            "name": "huydt/event",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/huydt03/php.Event.git",
+                "reference": "4157fd2cfff27e912514095734063aa2f52ae959"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/huydt03/php.Event/zipball/4157fd2cfff27e912514095734063aa2f52ae959",
+                "reference": "4157fd2cfff27e912514095734063aa2f52ae959",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Huydt\\Event\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "drhuy",
+                    "email": "huydt0307@gmail.com"
+                }
+            ],
+            "description": "php event",
+            "support": {
+                "issues": "https://github.com/huydt03/php.Event/issues",
+                "source": "https://github.com/huydt03/php.Event/tree/1.0.0"
+            },
+            "time": "2022-07-24T05:13:55+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

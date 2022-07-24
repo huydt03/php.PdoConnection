@@ -1,0 +1,17 @@
+{
+    "name": "huydt/pdo_connection",
+    "autoload": {
+        "psr-4": {
+            "Huydt\\PdoConnection\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "drhuy",
+            "email": "huydt0307@gmail.com"
+        }
+    ],
+    "require": {
+        "huydt/event": "^1.0"
+    }
+}
